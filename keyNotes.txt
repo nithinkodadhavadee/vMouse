@@ -1,0 +1,8 @@
+- capturing the real time hand movements
+- extracting frames from the capture video
+- finding hands in frames
+- marking a primary hand if many hands exist
+- masking the hands 
+- returning the position of the hands
+- Gesture recognition 
+- performing the specific task based on the gesture performed
