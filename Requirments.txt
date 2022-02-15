@@ -1,0 +1,7 @@
+- mouse movement
+- mouse click
+- drag 
+- scroll
+- volume control 
+- Right click
+- brightness control
